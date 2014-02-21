@@ -1,7 +1,7 @@
-common-casperjs-tests
+Common CasperJS Tests
 =====================
 
-Run common test on a collection of websites using CasperJS.
+Run a set of common tests on a collection of websites using CasperJS.
 
 About
 -----
