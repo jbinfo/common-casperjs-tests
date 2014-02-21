@@ -26,4 +26,7 @@ exports.functions = [
 			logError(this, 'Could not load resource `' + error.url + '`: ' + error.errorString);
 		});
 	}
+
+	// TODO: Add more tests.
+
 ];
